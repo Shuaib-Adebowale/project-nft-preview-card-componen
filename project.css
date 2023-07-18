@@ -22,11 +22,7 @@ body{
     width: 280px;
     height: 250px;
 }
-/* .view{
-    text-align: center;
-    z-index: 1;
-    margin-bottom: -99px;
-} */
+
 .nav-1:hover{
     background-color:  hsl(178, 100%, 50%);
 }
@@ -98,6 +94,7 @@ hr{
 /* @MEDIA */
 @media (max-width: 500px) {
     .header{
-        margin: 45px;
+        margin: 40px 90px;
+        align-items: center;
     }
 }
